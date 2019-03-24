@@ -2,4 +2,4 @@
 ## (Not finished yet)
 ToDo:
 - [ ] entityID
-- [ ] filter/architecture subcribtion
+- [ ] filter/archetype subcribtion
