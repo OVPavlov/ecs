@@ -1,5 +1,5 @@
 # ecs
-(Not finished yet)
-ToDo: 
-  * entityID
-  * filter/architecture subcribtion
+## (Not finished yet)
+ToDo:
+- [ ] entityID
+- [ ] filter/architecture subcribtion
